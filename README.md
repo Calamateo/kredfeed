@@ -1,5 +1,6 @@
 # Prueba tecnica React Kredfeed
 
+Pagina alojada en AWS [Kredfeed](https://main.d2wc6mg6xncnm6.amplifyapp.com)
 El reto implica desarrollar (usando React) un formulario de perfil de usuario con los datos que te proveemos
 
 ### Datos de la empresa:
