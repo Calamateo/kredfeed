@@ -35,9 +35,9 @@ Debes organizarlos y agruparlos de una manera que resulte en una buena experienc
 
 Para desarrolar esta web app se utilizaron las siguientes librerias y tecnologías
 
-- [React] (https://reactjs.org)
-- [Typescript] (https://www.typescriptlang.org)
-- [Materia Mui] (https://mui.com)
-- [React Hook Form] (https://react-hook-form.com)}
-- [COPOMEX] (https://copomex.com)
-- [AWS] (https://aws.amazon.com)
+- [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org)
+- [Materia Mui](https://mui.com)
+- [React Hook Form](https://react-hook-form.com)}
+- [COPOMEX](https://copomex.com)
+- [AWS](https://aws.amazon.com)
